@@ -1,4 +1,0 @@
-Dependencies:
-  tweepy
-  pymongo
-  json
